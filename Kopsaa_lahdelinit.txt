@@ -2,3 +2,4 @@ https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/
 https://quartzcomponents.com/blogs/electronics-projects/electronic-dice-using-arduino
 https://www.aranacorp.com/using-a-4x7-segment-display-with-arduino/
 https://circuitdigest.com/microcontroller-projects/digital-dice-using-arduino
+https://projecthub.arduino.cc/SAnwandter1/programming-4-digit-7-segment-led-display-5c4617
